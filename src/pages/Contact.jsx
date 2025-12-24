@@ -21,6 +21,8 @@ export default function Contact() {
       </div>
 
       <p>Email: ayoubsmayenn@gmail.com</p>
+      <p>Phone:  29966019</p>
+      <p>Whatsup: +216 29966019</p>
     </section>
   );
 }
